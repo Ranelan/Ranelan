@@ -11,7 +11,7 @@ Studying towards a Diploma in Application Development
 - 🛠️ I love bridging creativity and logic through code
 - 🚀 Always curious to learn new technologies and best practices
 - 🤝 Enjoy collaborating on team projects and open-source initiatives
-- ⚽ Soccer enthusiast and team player—on and off the field!
+- ⚽ Soccer enthusiast and team player, on and off the field!
 
 ---
 
