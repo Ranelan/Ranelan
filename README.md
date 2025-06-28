@@ -1,4 +1,4 @@
-## Hi there, I'm Ranelani Engel 👋
+# Hi there, I'm Ranelan 👋
 
 🎓 **Third Year Student @ Cape Peninsula University of Technology**  
 Studying towards a Diploma in Application Development
@@ -35,11 +35,15 @@ Studying towards a Diploma in Application Development
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Featured Projects
 
 ### [Prayer Connect](https://github.com/Ranelan/prayer-connect)
 > A project dedicated to connecting people through shared prayers and encouragement.  
 > _Check out the repo for more!_
+
+### [Rapid Care](https://github.com/Ranelan/Rapid-Care)
+> A collaborative project between me and my peers focused on delivering quick and accessible health solutions.  
+> _Built with teamwork, passion, and innovation._  
 
 ---
 
