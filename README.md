@@ -37,8 +37,8 @@ Studying towards a Diploma in Application Development
 
 ## 🏆 Featured Projects
 
-### [Prayer Connect](https://github.com/Ranelan/prayer-connect)
-> A project dedicated to connecting people through shared prayers and encouragement.  
+### [Prayer Connect](https://github.com/Ranelan/PrayerConnect)
+> A SpringBoot application dedicated to connecting people through shared prayers and encouragement with diffrent end points.  
 > _Check out the repo for more!_
 
 ### [Rapid Care](https://github.com/Ranelan/Rapid-Care)
@@ -51,7 +51,7 @@ Studying towards a Diploma in Application Development
 
 - Advanced Java development
 - Backend architectures with Spring Boot
-- Full stack web development with HTML, CSS & JavaScript
+- MicroServices
 - Python scripting for automation and data tasks
 
 ---
