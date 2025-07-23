@@ -52,7 +52,7 @@ Studying towards a Diploma in Application Development
 - Advanced Java development
 - Backend architectures with Spring Boot
 - MicroServices
-- Python scripting for automation and data tasks
+- OCI Multicloud Archtect
 
 ---
 
