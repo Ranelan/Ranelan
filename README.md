@@ -1,4 +1,4 @@
-# Hi there, I'm Ranelan 👋
+# Hi there, I'm Ranelani Engel 👋
 
 🎓 **Third Year Student @ Cape Peninsula University of Technology**  
 Studying towards a Diploma in Application Development
