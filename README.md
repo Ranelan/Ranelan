@@ -55,14 +55,12 @@ Studying towards a Diploma in Application Development
 
 - Advanced Java development
 - Backend architectures with Spring Boot
-- Microservices
-- OCI Multicloud Architecture
 
 ---
 
 ## 📫 Get in Touch
 
 - [LinkedIn](https://linkedin.com/in/engel-ranelani-3b1b28271)
-- 📧 raneyclassic@gmail.com
+- 📧 ranelaniengel@gmail.com
 
 ---
