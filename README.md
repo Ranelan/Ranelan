@@ -71,7 +71,6 @@ Add a CONTRIBUTING.md to each repo with issue/PR templates for smoother collabor
 
 ## Roadmap & Goals
 
-- [ ] Add CI/CD (GitHub Actions) with tests and linting to each repo
 - [ ] Deploy at least two projects with a live demo link
 - [ ] Add more end-to-end tests and code coverage badges
 - [ ] Start a development blog or write project postmortems
