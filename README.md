@@ -1,66 +1,95 @@
 # Hi there, I'm Ranelani Engel 👋
 
-🎓 **Third Year Student @ Cape Peninsula University of Technology**  
+🎓 Third Year Student @ Cape Peninsula University of Technology  
 Studying towards a Diploma in Application Development
 
 ---
 
-## 🚀 About Me
+[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome)](https://your-portfolio.example) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/engel-ranelani-3b1b28271) [![Email](https://img.shields.io/badge/Email-ranelaniengel%40gmail.com-red?style=flat&logo=gmail)](mailto:ranelaniengel@gmail.com)
 
-- 💻 Aspiring software developer passionate about building impactful, user-centered applications
-- 🛠️ I love bridging creativity and logic through code
-- 🚀 Always curious to learn new technologies and best practices
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranelan&layout=compact&theme=radical)](https://github.com/Ranelan)
+
+---
+
+## About Me
+
+- 💻 Aspiring software developer building user-centered applications
+- 🛠️ I enjoy bridging creativity and logic through code
+- 🚀 Always learning new technologies and best practices
 - 🤝 Enjoy collaborating on team projects and open-source initiatives
-- ⚽ Soccer enthusiast and team player, on and off the field!
+- ⚽ Soccer enthusiast and team player
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-- **Languages & Frameworks:**  
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-- **Tools:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- Languages & Frameworks:
+  - Java, Spring Boot, Python, HTML5, CSS3, JavaScript
+- Tools:
+  - Git, GitHub, IntelliJ IDEA, VS Code, Postman, Figma
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### [Prayer Connect](https://github.com/Ranelan/PrayerConnect)
-> A Spring Boot application dedicated to connecting people through shared prayers and encouragement using different endpoints.  
-> _Check out the repo for more!_
+### Prayer Connect
+A Spring Boot application for connecting people through shared prayers and encouragement using REST endpoints.
+- Repo: https://github.com/Ranelan/PrayerConnect
+- Tech: Java, Spring Boot, H2/Postgres, REST
 
-### [Personal Finance (Budget-Buddy)](https://github.com/Ranelan/PersonalFinance)
-> A personal finance management tool to help users track expenses, set budgets, and monitor savings.  
-> _Check out the repo for more!_
+### Personal Finance (Budget-Buddy)
+A personal finance tool to track expenses, set budgets, and monitor savings.
+- Repo: https://github.com/Ranelan/PersonalFinance
+- Tech: Java / Python (add concrete stack), SQLite/Postgres
 
-### [Bookify (bookify-backend)](https://github.com/Ranelan/bookify-backend)
-> A book reselling platform that enables students to list and resell unused books to peers in a secure marketplace.  
-> _Check out the repo for more!_
-
----
-
-## 🌱 What I'm Learning
-
-- Advanced Java development
-- Backend architectures with Spring Boot
+### Bookify (bookify-backend)
+A book reselling backend API for students to list and resell books in a secure marketplace.
+- Repo: https://github.com/Ranelan/bookify-backend
+- Tech: Java, Spring Boot, JWT Auth, REST
 
 ---
 
-## 📫 Get in Touch
+## Contributions & Open Source
 
-- [LinkedIn](https://linkedin.com/in/engel-ranelani-3b1b28271)
-- 📧 ranelaniengel@gmail.com
+I'd love help improving any of these projects. To contribute:
+1. Fork the repo
+2. Create a branch: git checkout -b feature/your-idea
+3. Commit your changes and open a PR with a clear description and tests if applicable
+
+Add a CONTRIBUTING.md to each repo with issue/PR templates for smoother collaboration.
 
 ---
+
+## What I'm Learning
+
+- Advanced Java and Spring Boot
+- API design and secure authentication (JWT, OAuth)
+- Test-driven development and clean architecture
+- Cloud deployment basics (Heroku / Render / AWS)
+
+---
+
+## Roadmap & Goals
+
+- [ ] Add CI/CD (GitHub Actions) with tests and linting to each repo
+- [ ] Deploy at least two projects with a live demo link
+- [ ] Add more end-to-end tests and code coverage badges
+- [ ] Start a development blog or write project postmortems
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/engel-ranelani-3b1b28271  
+- Email: ranelaniengel@gmail.com
+
+---
+
+## Fun Facts
+
+- Favorite position: Defender ⚽
+- One-liner mission statement: "Build apps that make studying and student life a bit easier."
+
+---
+
+Made with ❤️ 
