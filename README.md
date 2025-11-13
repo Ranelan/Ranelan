@@ -5,7 +5,7 @@ Studying towards a Diploma in Application Development
 
 ---
 
-[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome)](https://your-portfolio.example) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/engel-ranelani-3b1b28271) [![Email](https://img.shields.io/badge/Email-ranelaniengel%40gmail.com-red?style=flat&logo=gmail)](mailto:ranelaniengel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/engel-ranelani-3b1b28271) [![Email](https://img.shields.io/badge/Email-ranelaniengel%40gmail.com-red?style=flat&logo=gmail)](mailto:ranelaniengel@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranelan&layout=compact&theme=radical)](https://github.com/Ranelan)
 
