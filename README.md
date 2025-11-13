@@ -38,12 +38,16 @@ Studying towards a Diploma in Application Development
 ## 🏆 Featured Projects
 
 ### [Prayer Connect](https://github.com/Ranelan/PrayerConnect)
-> A SpringBoot application dedicated to connecting people through shared prayers and encouragement with diffrent end points.  
+> A Spring Boot application dedicated to connecting people through shared prayers and encouragement using different endpoints.  
 > _Check out the repo for more!_
 
-### [Rapid Care](https://github.com/Ranelan/Rapid-Care)
-> A collaborative project between me and my peers focused on delivering quick and accessible health solutions.  
-> _Built with teamwork, passion, and innovation._  
+### [Personal Finance (Budget-Buddy)](https://github.com/Ranelan/PersonalFinance)
+> A personal finance management tool to help users track expenses, set budgets, and monitor savings.  
+> _Check out the repo for more!_
+
+### [Bookify (bookify-backend)](https://github.com/Ranelan/bookify-backend)
+> A book reselling platform that enables students to list and resell unused books to peers in a secure marketplace.  
+> _Check out the repo for more!_
 
 ---
 
@@ -51,8 +55,8 @@ Studying towards a Diploma in Application Development
 
 - Advanced Java development
 - Backend architectures with Spring Boot
-- MicroServices
-- OCI Multicloud Archtect
+- Microservices
+- OCI Multicloud Architecture
 
 ---
 
@@ -62,6 +66,3 @@ Studying towards a Diploma in Application Development
 - 📧 raneyclassic@gmail.com
 
 ---
-
-Thanks for visiting my profile!  
-Let's connect and build something amazing together! 🚀
