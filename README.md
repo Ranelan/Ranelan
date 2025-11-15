@@ -35,17 +35,17 @@ Studying towards a Diploma in Application Development
 ### Prayer Connect
 A Spring Boot application for connecting people through shared prayers and encouragement using REST endpoints.
 - Repo: https://github.com/Ranelan/PrayerConnect
-- Tech: Java, Spring Boot, H2/Postgres, REST
+- Tech: Java, Springboot, MySQL, JWT Auth
 
 ### Personal Finance (Budget-Buddy)
 A personal finance tool to track expenses, set budgets, and monitor savings.
 - Repo: https://github.com/Ranelan/PersonalFinance
-- Tech: Java / Python (add concrete stack), SQLite/Postgres
+- Tech: Springboot, MySQL, JWT Auth
 
 ### Bookify (bookify-backend)
 A book reselling backend API for students to list and resell books in a secure marketplace.
 - Repo: https://github.com/Ranelan/bookify-backend
-- Tech: Java, Spring Boot, JWT Auth, REST
+- Tech: Spring Boot, JWT Auth, MySQL
 
 ---
 
