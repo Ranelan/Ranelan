@@ -7,7 +7,7 @@ Currently pursuing an Advanced Diploma in Application Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/engel-ranelani-3b1b28271) [![Email](https://img.shields.io/badge/Email-ranelaniengel%40gmail.com-red?style=flat&logo=gmail)](mailto:ranelaniengel@gmail.com)
 
-[![GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ranelan&layout=compact&theme=radical)](https://github.com/Ranelan)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranelan&theme=radical)
 
 ---
 
