@@ -1,7 +1,7 @@
 # Hi there, I'm Ranelani Engel 👋
 
-🎓 Third Year Student @ Cape Peninsula University of Technology  
-Studying towards a Diploma in Application Development
+🎓 Graduate from Cape Peninsula University of Technology  
+Currently pursuing an Advanced Diploma in Application Development
 
 ---
 
@@ -13,11 +13,11 @@ Studying towards a Diploma in Application Development
 
 ## About Me
 
-- 💻 Aspiring software developer building user-centered applications
-- 🛠️ I enjoy bridging creativity and logic through code
-- 🚀 Always learning new technologies and best practices
-- 🤝 Enjoy collaborating on team projects and open-source initiatives
-- ⚽ Soccer enthusiast and team player
+- 💻 Software developer passionate about creating user-centered applications
+- 🛠️ Love finding that sweet spot where creativity meets logic
+- 🚀 Constantly exploring new tech and leveling up my skills
+- 🤝 Big on collaboration – whether it's team projects or open-source work
+- ⚽ Soccer fan and defender on the field
 
 ---
 
@@ -51,29 +51,29 @@ A book reselling backend API for students to list and resell books in a secure m
 
 ## Contributions & Open Source
 
-I'd love help improving any of these projects. To contribute:
+Always happy to see contributions on any of my projects! Here's how:
 1. Fork the repo
 2. Create a branch: git checkout -b feature/your-idea
 3. Commit your changes and open a PR with a clear description and tests if applicable
 
-Add a CONTRIBUTING.md to each repo with issue/PR templates for smoother collaboration.
+Planning to add CONTRIBUTING.md files to each repo soon for easier collaboration.
 
 ---
 
-## What I'm Learning
+## Currently Diving Into
 
-- Advanced Java and Spring Boot
-- API design and secure authentication (JWT, OAuth)
-- Test-driven development and clean architecture
-- Cloud deployment basics (Heroku / Render / AWS)
+- Advanced Java and Spring Boot patterns
+- Building solid APIs with secure authentication (JWT, OAuth)
+- Test-driven development and clean architecture principles
+- Cloud deployment and DevOps (Heroku, Render, AWS)
 
 ---
 
-## Roadmap & Goals
+## Current Goals
 
-- [ ] Deploy at least two projects with a live demo link
-- [ ] Add more end-to-end tests and code coverage badges
-- [ ] Start a development blog or write project postmortems
+- [ ] Get at least two projects deployed with live demos
+- [ ] Improve test coverage and add those green badges
+- [ ] Start sharing what I learn through blog posts or project postmortems
 
 ---
 
