@@ -45,7 +45,7 @@ A personal finance tool to track expenses, set budgets, and monitor savings.
 ### Bookify (bookify-backend)
 A book reselling backend API for students to list and resell books in a secure marketplace.
 - Repo: https://github.com/Ranelan/bookify-backend
-- Tech: Spring Boot, JWT Auth, MySQL
+- Tech: Spring Boot, MySQL
 
 ---
 
@@ -73,7 +73,7 @@ Planning to add CONTRIBUTING.md files to each repo soon for easier collaboration
 
 - [ ] Get at least two projects deployed with live demos
 - [ ] Improve test coverage and add those green badges
-- [ ] Start sharing what I learn through blog posts or project postmortems
+- [ ] Start sharing what I learn through blog posts
 
 ---
 
@@ -89,6 +89,4 @@ Planning to add CONTRIBUTING.md files to each repo soon for easier collaboration
 - Favorite position: Defender ⚽
 - One-liner mission statement: "Build apps that make studying and student life a bit easier."
 
----
-
-Made with ❤️ 
+--- 
