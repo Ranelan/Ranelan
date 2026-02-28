@@ -85,6 +85,3 @@ Planning to add CONTRIBUTING.md files to each repo soon for easier collaboration
 
 ## Fun Facts
 
-- Favorite position: Defender ⚽
-
---- 
