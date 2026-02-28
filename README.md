@@ -82,6 +82,3 @@ Planning to add CONTRIBUTING.md files to each repo soon for easier collaboration
 - Email: ranelaniengel@gmail.com
 
 ---
-
-## Fun Facts
-
