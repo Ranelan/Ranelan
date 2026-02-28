@@ -65,14 +65,13 @@ Planning to add CONTRIBUTING.md files to each repo soon for easier collaboration
 - Advanced Java and Spring Boot patterns
 - Building solid APIs with secure authentication (JWT, OAuth)
 - Test-driven development and clean architecture principles
-- Cloud deployment and DevOps (Heroku, Render, AWS)
+- Cloud deployment (Heroku, Render, AWS, Azure)
 
 ---
 
 ## Current Goals
 
 - [ ] Get at least two projects deployed with live demos
-- [ ] Improve test coverage and add those green badges
 - [ ] Start sharing what I learn through blog posts
 
 ---
