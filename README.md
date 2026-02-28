@@ -86,6 +86,5 @@ Planning to add CONTRIBUTING.md files to each repo soon for easier collaboration
 ## Fun Facts
 
 - Favorite position: Defender ⚽
-- One-liner mission statement: "Build apps that make studying and student life a bit easier."
 
 --- 
