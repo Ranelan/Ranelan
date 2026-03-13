@@ -1,7 +1,7 @@
 # Hi there, I'm Ranelani Engel 👋
 
 🎓 Diploma: ICT in Application Development, Graduate from Cape Peninsula University of Technology  
-Currently pursuing an Advanced Diploma in Application Development
+Currently pursuing an Advanced Diploma in ICT in Application Development
 
 ---
 
