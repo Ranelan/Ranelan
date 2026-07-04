@@ -21,7 +21,6 @@
 ## 👨‍💻 About Me
 
 - 💻 Software developer passionate about creating user-centered applications
-- 📊 **Currently learning Data Analytics** – exploring data, uncovering insights, and turning numbers into stories
 - 🛠️ Love finding that sweet spot where creativity meets logic
 - 🚀 Constantly exploring new tech and leveling up my skills
 - 🤝 Big on collaboration – whether it's team projects or open-source work
