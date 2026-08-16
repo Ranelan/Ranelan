@@ -2,12 +2,22 @@
 
 # Hi there, I'm Ranelani Engel 👋
 
-### 💡 Software Developer | 📊 Data Analytics Learner | 🎓 Advanced Diploma Student
+### 💡 Software Developer | 🏢 Co-Founder @ MSTR Software Solutions | 🎓 Advanced Diploma Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engel-ranelani-3b1b28271)
 [![Email](https://img.shields.io/badge/Email-ranelaniengel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranelaniengel@gmail.com)
+[![MSTR](https://img.shields.io/badge/MSTR_Software_Solutions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSTR-Software-Solutions)
 
 </div>
+
+---
+
+## 🏢 MSTR Software Solutions
+
+Co-Founder of **[MSTR Software Solutions](https://github.com/MSTR-Software-Solutions)** – a small software team building practical, real-world applications.
+Currently working on **Rapid Care**, an ambulance tracking and emergency response platform.
+
+[![MSTR Org](https://img.shields.io/badge/View_Organisation-181717?style=for-the-badge&logo=github)](https://github.com/MSTR-Software-Solutions)
 
 ---
 
@@ -21,6 +31,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Software developer passionate about creating user-centered applications
+- 🏢 Co-Founder of [MSTR Software Solutions](https://github.com/MSTR-Software-Solutions)
 - 🛠️ Love finding that sweet spot where creativity meets logic
 - 🚀 Constantly exploring new tech and leveling up my skills
 - 🤝 Big on collaboration – whether it's team projects or open-source work
@@ -51,6 +62,14 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🚑 Rapid Care *(MSTR Software Solutions)*
+> An ambulance tracking and emergency response application, built with the MSTR team.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/MSTR-Software-Solutions/RapidCare-Backend)
+`Java` `Spring Boot` `Swift`
+
+---
 
 ### 🙏 Prayer Connect
 > A Spring Boot application for connecting people through shared prayers and encouragement using REST endpoints.
@@ -93,7 +112,6 @@
 
 | Area | What I'm Learning |
 |------|-------------------|
-| 📊 **Data Analytics** | Data analysis techniques, visualisation, and turning raw data into actionable insights |
 | ☕ **Java & Spring Boot** | Advanced patterns and best practices |
 | 🔐 **API Security** | JWT, OAuth2, and secure authentication flows |
 | 🧪 **TDD & Clean Architecture** | Test-driven development and maintainable code design |
@@ -105,7 +123,7 @@
 
 - [ ] 🚀 Get at least two projects deployed with live demos
 - [ ] ✍️ Start sharing what I learn through blog posts
-- [ ] 📊 Complete a data analytics mini-project
+- [ ] 🚑 Ship the first production release of Rapid Care with MSTR
 
 ---
 
